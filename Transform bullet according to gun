@@ -1,1 +1,1 @@
-  rb.velocity = Gun.transform.rotation  * new Vector3(0,0,1)* 10 ;
+  rb.velocity = Gun.transform.rotation  * new Vector3(0,0,1)* 10 ; // velocity for bullet
